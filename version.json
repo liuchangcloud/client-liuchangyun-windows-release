@@ -1,25 +1,38 @@
 {
-    "lastest": "0.2.4",
+    "lastest": "0.2.5",
     "versions": [
         {
+            "version": "0.2.5",
+            "releasetime": "2020-09-23 16:00:00",
+            "filename": "LiuchangyunVPN_Secure_v0.2.5",
+            "whatsnew": [
+                "添加未捕获的异常日志记录",
+                "修复自动启动后的连接异常"
+            ],
+            "url": "https://github.com/liuchangyunVPN/liuchangyun-windows/releases/download/v.0.2.5/LiuchangyunVPN_Secure_v0.2.5.7z",
+            "md5": ""
+        },
+        {
             "version": "0.2.4",
-            "filename": "",
+            "releasetime": "2020-09-22 13:25:00",
+            "filename": "LiuchangyunVPN_Secure_v0.2.4",
             "whatsnew": [
                 "更新图标",
                 "增加登录错误日志记录"
             ],
-            "url": "",
+            "url": "https://github.com/liuchangyunVPN/liuchangyun-windows/releases/download/v.0.2.4/LiuchangyunVPN_Secure_v0.2.4.7z",
             "md5": ""
         },
         {
             "version": "0.2.3",
-            "filename": "",
+            "releasetime": "2020-09-21 16:15:00",
+            "filename": "LiuchangyunVPN_Secure_v0.2.3",
             "whatsnew": [
                 "修复日志写入错误",
                 "添加日志设置项,可以设置是否将运行日志写入日志文件",
                 "修复PAC智能模式和全局模式切换"
             ],
-            "url": "",
+            "url": "https://github.com/liuchangyunVPN/liuchangyun-windows/releases/download/v.0.2.3/LiuchangyunVPN_Secure_v0.2.3.7z",
             "md5": ""
         },
         {
