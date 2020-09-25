@@ -1,6 +1,27 @@
 {
-    "lastest": "0.2.5",
+    "lastest": "0.2.7",
     "versions": [
+        {
+            "version": "0.2.7",
+            "releasetime": "2020-09-25 18:00:00",
+            "filename": "LiuchangyunVPN_Secure_v0.2.7",
+            "whatsnew": [
+                "去掉API连接日志",
+                "整合资源插件到主程序内部"
+            ],
+            "url": "https://github.com/liuchangyunVPN/liuchangyun-windows/releases/download/v.0.2.7/LiuchangyunVPN_Secure_v0.2.7.7z",
+            "md5": ""
+        },
+        {
+            "version": "0.2.6",
+            "releasetime": "2020-09-24 20:00:00",
+            "filename": "LiuchangyunVPN_Secure_v0.2.6",
+            "whatsnew": [
+                "修复错误的服务器信息导致的崩溃"
+            ],
+            "url": "https://github.com/liuchangyunVPN/liuchangyun-windows/releases/download/v.0.2.6/LiuchangyunVPN_Secure_v0.2.6.7z",
+            "md5": ""
+        },
         {
             "version": "0.2.5",
             "releasetime": "2020-09-23 16:00:00",
