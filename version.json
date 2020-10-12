@@ -1,6 +1,19 @@
 {
-    "lastest": "0.2.7",
+    "lastest": "0.3.0",
     "versions": [
+        {
+            "version": "0.3.0",
+            "releasetime": "2020-10-12 18:00:00",
+            "filename": "LiuchangyunVPN_Secure_v0.3.0",
+            "whatsnew": [
+                "修复内存泄漏",
+                "添加香港行政区旗",
+                "更新golang版本 1.15.2",
+                "更新v2ray版本 4.31.0"
+            ],
+            "url": "https://github.com/liuchangyunVPN/liuchangyun-windows/releases/download/v.0.3.0/LiuchangyunVPN_Secure_v0.3.0.7z",
+            "md5": ""
+        },
         {
             "version": "0.2.7",
             "releasetime": "2020-09-25 18:00:00",
