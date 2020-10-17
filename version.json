@@ -1,6 +1,18 @@
 {
-    "lastest": "0.3.0",
+    "lastest": "0.3.1",
     "versions": [
+        {
+            "version": "0.3.1",
+            "releasetime": "2020-10-17 08:00:00",
+            "filename": "LiuchangyunVPN_Secure_v0.3.1",
+            "whatsnew": [
+                "更新 geoip geosite",
+                "修复文字显示",
+                "优化版本检查"
+            ],
+            "url": "https://github.com/liuchangyunVPN/liuchangyun-windows/releases/download/v.0.3.0/LiuchangyunVPN_Secure_v0.3.1.7z",
+            "md5": ""
+        },
         {
             "version": "0.3.0",
             "releasetime": "2020-10-12 18:00:00",
