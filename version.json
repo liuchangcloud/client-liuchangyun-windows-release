@@ -1,6 +1,17 @@
 {
-    "lastest": "0.3.1",
+    "lastest": "0.3.2",
     "versions": [
+         {
+            "version": "0.3.2",
+            "releasetime": "2020-10-24 05:00:00",
+            "filename": "LiuchangyunVPN_Secure_v0.3.2",
+            "changelog": [
+                "优化登录错误文字提示",
+                "增加[关于]页面版本信息显示"
+            ],
+            "url": "https://github.com/liuchangyunVPN/liuchangyun-windows/releases/download/v.0.3.0/LiuchangyunVPN_Secure_v0.3.2.7z",
+            "md5": ""
+        },
         {
             "version": "0.3.1",
             "releasetime": "2020-10-17 08:00:00",
