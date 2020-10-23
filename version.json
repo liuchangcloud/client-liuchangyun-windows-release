@@ -7,6 +7,7 @@
             "filename": "LiuchangyunVPN_Secure_v0.3.2",
             "changelog": [
                 "优化登录错误文字提示",
+                "增加主页快速访问链接",
                 "增加[关于]页面版本信息显示"
             ],
             "url": "https://github.com/liuchangyunVPN/liuchangyun-windows/releases/download/v.0.3.0/LiuchangyunVPN_Secure_v0.3.2.7z",
