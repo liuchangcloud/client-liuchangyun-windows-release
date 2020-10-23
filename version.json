@@ -5,7 +5,7 @@
             "version": "0.3.1",
             "releasetime": "2020-10-17 08:00:00",
             "filename": "LiuchangyunVPN_Secure_v0.3.1",
-            "whatsnew": [
+            "changelog": [
                 "更新 geoip geosite",
                 "修复文字显示",
                 "优化版本检查"
@@ -17,7 +17,7 @@
             "version": "0.3.0",
             "releasetime": "2020-10-12 18:00:00",
             "filename": "LiuchangyunVPN_Secure_v0.3.0",
-            "whatsnew": [
+            "changelog": [
                 "修复内存泄漏",
                 "添加香港行政区旗",
                 "更新golang版本 1.15.2",
@@ -30,7 +30,7 @@
             "version": "0.2.7",
             "releasetime": "2020-09-25 18:00:00",
             "filename": "LiuchangyunVPN_Secure_v0.2.7",
-            "whatsnew": [
+            "changelog": [
                 "去掉API连接日志",
                 "整合资源插件到主程序内部",
                 "添加商店链接按钮"
@@ -42,7 +42,7 @@
             "version": "0.2.6",
             "releasetime": "2020-09-24 20:00:00",
             "filename": "LiuchangyunVPN_Secure_v0.2.6",
-            "whatsnew": [
+            "changelog": [
                 "修复错误的服务器信息导致的崩溃"
             ],
             "url": "https://github.com/liuchangyunVPN/liuchangyun-windows/releases/download/v.0.2.6/LiuchangyunVPN_Secure_v0.2.6.7z",
@@ -52,7 +52,7 @@
             "version": "0.2.5",
             "releasetime": "2020-09-23 16:00:00",
             "filename": "LiuchangyunVPN_Secure_v0.2.5",
-            "whatsnew": [
+            "changelog": [
                 "添加未捕获的异常日志记录",
                 "修复自动启动后的连接异常"
             ],
@@ -63,7 +63,7 @@
             "version": "0.2.4",
             "releasetime": "2020-09-22 13:25:00",
             "filename": "LiuchangyunVPN_Secure_v0.2.4",
-            "whatsnew": [
+            "changelog": [
                 "更新图标",
                 "增加登录错误日志记录"
             ],
@@ -74,7 +74,7 @@
             "version": "0.2.3",
             "releasetime": "2020-09-21 16:15:00",
             "filename": "LiuchangyunVPN_Secure_v0.2.3",
-            "whatsnew": [
+            "changelog": [
                 "修复日志写入错误",
                 "添加日志设置项,可以设置是否将运行日志写入日志文件",
                 "修复PAC智能模式和全局模式切换"
@@ -85,7 +85,7 @@
         {
             "version": "0.2.2",
             "filename": "",
-            "whatsnew": [
+            "changelog": [
                 "增加新版本检测与提示,可以直接点击新版本链接跳转到下载页面",
                 "增加主界面官网链接",
                 "修复其他BUG,增加稳定性"
@@ -96,7 +96,7 @@
         {
             "version": "0.2.1",
             "filename": "",
-            "whatsnew": [
+            "changelog": [
                 "修复V2RAY内核部分情况下未能正确退出",
                 "修复其他BUG,增加稳定性"
             ],
@@ -106,7 +106,7 @@
         {
             "version": "0.2.0",
             "filename": "",
-            "whatsnew": [
+            "changelog": [
                 "更新V2RAY内核版本,支持VLESS协议",
                 "使用V2RAY内置json解析功能,减少文件大小"
             ],
