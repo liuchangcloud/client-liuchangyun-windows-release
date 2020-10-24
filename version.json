@@ -1,7 +1,18 @@
 {
-    "lastest": "0.3.2",
+    "lastest": "0.3.3",
     "versions": [
          {
+            "version": "0.3.3",
+            "releasetime": "2020-10-24 12:00:00",
+            "filename": "LiuchangyunVPN_Secure_v0.3.3",
+            "changelog": [
+                "优化服务器信息显示，可以显示服务器协议、网络以及是否支持TLS特性",
+                "优化主界面布局"
+            ],
+            "url": "https://github.com/liuchangyunVPN/liuchangyun-windows/releases/download/v0.3.3/LiuchangyunVPN_Secure_v0.3.3.7z",
+            "md5": ""
+        },
+        {
             "version": "0.3.2",
             "releasetime": "2020-10-24 05:00:00",
             "filename": "LiuchangyunVPN_Secure_v0.3.2",
@@ -10,7 +21,7 @@
                 "增加主页快速访问链接",
                 "增加[关于]页面版本信息显示"
             ],
-            "url": "https://github.com/liuchangyunVPN/liuchangyun-windows/releases/download/v.0.3.0/LiuchangyunVPN_Secure_v0.3.2.7z",
+            "url": "https://github.com/liuchangyunVPN/liuchangyun-windows/releases/download/v0.3.2/LiuchangyunVPN_Secure_v0.3.2.7z",
             "md5": ""
         },
         {
@@ -22,7 +33,7 @@
                 "修复文字显示",
                 "优化版本检查"
             ],
-            "url": "https://github.com/liuchangyunVPN/liuchangyun-windows/releases/download/v.0.3.0/LiuchangyunVPN_Secure_v0.3.1.7z",
+            "url": "https://github.com/liuchangyunVPN/liuchangyun-windows/releases/download/v0.3.1/LiuchangyunVPN_Secure_v0.3.1.7z",
             "md5": ""
         },
         {
@@ -35,7 +46,7 @@
                 "更新golang版本 1.15.2",
                 "更新v2ray版本 4.31.0"
             ],
-            "url": "https://github.com/liuchangyunVPN/liuchangyun-windows/releases/download/v.0.3.0/LiuchangyunVPN_Secure_v0.3.0.7z",
+            "url": "https://github.com/liuchangyunVPN/liuchangyun-windows/releases/download/v0.3.0/LiuchangyunVPN_Secure_v0.3.0.7z",
             "md5": ""
         },
         {
@@ -47,7 +58,7 @@
                 "整合资源插件到主程序内部",
                 "添加商店链接按钮"
             ],
-            "url": "https://github.com/liuchangyunVPN/liuchangyun-windows/releases/download/v.0.2.7/LiuchangyunVPN_Secure_v0.2.7.7z",
+            "url": "https://github.com/liuchangyunVPN/liuchangyun-windows/releases/download/v0.2.7/LiuchangyunVPN_Secure_v0.2.7.7z",
             "md5": ""
         },
         {
@@ -57,7 +68,7 @@
             "changelog": [
                 "修复错误的服务器信息导致的崩溃"
             ],
-            "url": "https://github.com/liuchangyunVPN/liuchangyun-windows/releases/download/v.0.2.6/LiuchangyunVPN_Secure_v0.2.6.7z",
+            "url": "https://github.com/liuchangyunVPN/liuchangyun-windows/releases/download/v0.2.6/LiuchangyunVPN_Secure_v0.2.6.7z",
             "md5": ""
         },
         {
@@ -68,7 +79,7 @@
                 "添加未捕获的异常日志记录",
                 "修复自动启动后的连接异常"
             ],
-            "url": "https://github.com/liuchangyunVPN/liuchangyun-windows/releases/download/v.0.2.5/LiuchangyunVPN_Secure_v0.2.5.7z",
+            "url": "https://github.com/liuchangyunVPN/liuchangyun-windows/releases/download/v0.2.5/LiuchangyunVPN_Secure_v0.2.5.7z",
             "md5": ""
         },
         {
@@ -79,7 +90,7 @@
                 "更新图标",
                 "增加登录错误日志记录"
             ],
-            "url": "https://github.com/liuchangyunVPN/liuchangyun-windows/releases/download/v.0.2.4/LiuchangyunVPN_Secure_v0.2.4.7z",
+            "url": "https://github.com/liuchangyunVPN/liuchangyun-windows/releases/download/v0.2.4/LiuchangyunVPN_Secure_v0.2.4.7z",
             "md5": ""
         },
         {
@@ -91,7 +102,7 @@
                 "添加日志设置项,可以设置是否将运行日志写入日志文件",
                 "修复PAC智能模式和全局模式切换"
             ],
-            "url": "https://github.com/liuchangyunVPN/liuchangyun-windows/releases/download/v.0.2.3/LiuchangyunVPN_Secure_v0.2.3.7z",
+            "url": "https://github.com/liuchangyunVPN/liuchangyun-windows/releases/download/v0.2.3/LiuchangyunVPN_Secure_v0.2.3.7z",
             "md5": ""
         },
         {
