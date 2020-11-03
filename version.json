@@ -1,6 +1,16 @@
 {
-    "lastest": "0.3.5",
+    "lastest": "0.3.6",
     "versions": [
+         {
+            "version": "0.3.6",
+            "releasetime": "2020-11-03 12:00:00",
+            "filename": "LiuchangyunVPN_Secure_v0.3.6",
+            "changelog": [
+                "优化更新检查，在连接代理服务器后使用代理访问更新配置文件，避免GitHub在部分区域被墙无法获取更新信息"
+            ],
+            "url": "https://github.com/liuchangyunVPN/liuchangyun-windows/releases/download/v0.3.6/LiuchangyunVPN_Secure_v0.3.6.7z",
+            "md5": ""
+        },
         {
             "version": "0.3.5",
             "releasetime": "2020-10-30 10:00:00",
@@ -9,7 +19,7 @@
                 "优化登录失败的处理，不需要重新输入账号密码",
                 "其他问题修复，提升稳定性"
             ],
-            "url": "https://github.com/liuchangyunVPN/liuchangyun-windows/releases/download/v0.3.4/LiuchangyunVPN_Secure_v0.3.5.7z",
+            "url": "https://github.com/liuchangyunVPN/liuchangyun-windows/releases/download/v0.3.5/LiuchangyunVPN_Secure_v0.3.5.7z",
             "md5": ""
         },
         {
